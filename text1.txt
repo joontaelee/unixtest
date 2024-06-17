@@ -2,3 +2,5 @@ Hello world
 second
 third - my branch
 fourth commit
+some hot fix
+some hot fix
